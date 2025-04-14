@@ -49,7 +49,7 @@ Despite the dataset being synthetic and anonymized, the project revealed several
 
 ## 📎 Project Resources
 
-🔗 *(Links will be added when hosted in the repo — replace `#` with real links)*
+🔗 *(Links will be added when hosted in the repo)*
 
 - [📊 Power BI Dashboard (Screenshots)](#)
 - [🧮 SQL Queries Used](#)
@@ -68,4 +68,4 @@ Big thanks to:
 
 ---
 
-*This project is part of my ongoing data analytics portfolio. Feedback and collaboration are welcome!*
+*This project is part of my data analytics portfolio. Feedback and collaboration are welcome!*
