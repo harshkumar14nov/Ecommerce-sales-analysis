@@ -1,4 +1,4 @@
-# This file contains the full list of SQL queries used in this project, organized by question/topic. Each query includes a clear explanation of:
+# This file contains the full list of SQL queries used in this project, Inludes:
 - What the query does
 - Why it was written this way
 
