@@ -11,6 +11,7 @@ This project is a hands-on exercise in exploring, cleaning, querying, and visual
 - [🛠 Tools Used](#-tools-used)
 - [📎 Project Resources](#-project-resources)
 - [🙏 Acknowledgements](#-acknowledgements)
+- [🔍 Dive Into The Project](#-Following-Links-Contain-a-Deep-Dive-into-the-Project)
 
 ---
 
@@ -55,6 +56,14 @@ Despite the dataset being synthetic and anonymized, the project revealed several
 - [🧮 SQL Queries Used](#)
 - [🧼 Excel Cleaning Workflow](#)
 - [🧠 Full Methodology Breakdown](#)
+
+---
+
+## Following Links Contain a Deep Dive into the Project
+
+- [Power BI](PowerBI.md)
+- [Methodology](Methodology.md)
+- [SQL Queries](SQL-Queries.md)
 
 ---
 
