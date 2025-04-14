@@ -49,11 +49,9 @@ Despite the dataset being synthetic and anonymized, the project revealed several
 
 ## 📎 Project Resources
 
-🔗 *(Links will be added when hosted in the repo)*
 
-- [📊 Power BI Dashboard (Screenshots)](#)
-- [🧮 SQL Queries Used](#)
-- [🧼 Excel Cleaning Workflow](#)
+- [📊 Power BI Dashboard (Screenshots)](#PowerBI.md)
+- [🧮 SQL Queries Used](#SQL-Queries.md)
 - [🧠 Full Methodology Breakdown](Methodology.md)
 
 ---
