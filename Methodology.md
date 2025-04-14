@@ -40,17 +40,14 @@ After loading the dataset, the following cleaning steps were performed using **S
 **1. CustomerID (Critical Field)**
 
 - Missing Values: 4,900 out of 496,700 rows (\~0.99%)
-- Reason for Removal: CustomerID is essential for identifying and tracking unique customers.
+- Reason for Removal: CustomerID is essential for identifying and tracking unique customers, Ensured that sales trends and customer insights remain reliable, Keeping NULLs would skew customer-related metrics (e.g., customer count, repeat buyers).
+Ensures accurate customer segmentation & sales analysis.
 - Action: Removed all rows with NULL CustomerID.
 
 **2. WarehouseLocation (Non-Critical Field)**
 
 - Reason for Keeping: Warehouse location is useful but not critical to overall sales or customer behavior analysis.
 - Action: Replaced NULLs with "Unknown" to retain data while preserving integrity.
-
-#### ✅ New Column Created
-
-- Added a **"Total"** column to simplify revenue calculations (Quantity \* UnitPrice).
 
 ---
 
