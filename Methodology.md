@@ -203,7 +203,7 @@ Return rates vary by warehouse. London’s performance may reflect stronger QA a
 
 - The dataset lacked strong diversity in warehouse performance and customer behavior.
 - Most trends were subtle, requiring granular analysis and careful accuracy.
-- External factors (e.g., shipping delays, product defects, customer reviews) were not included in the dataset, limiting deeper causal insights.
+- External factors (e.g., shipping delays, product defect, customer reviews) were not included in the dataset, limiting deeper causal insights.
 
 Despite these limitations, the project demanded precision and attention to small data points, emphasizing the importance of **detail-oriented analysis in real-world business data**.
 
