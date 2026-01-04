@@ -72,6 +72,6 @@ Big thanks to:
 ## 🙌 Author
 Harsh Kumar  
 Data Analyst  
-LinkedIn: https://www.linkedin.com/in/harsh-kumar  
-GitHub: https://github.com/harsh-kumar
+LinkedIn: https://www.linkedin.com/in/kumar-harsh-a38934242  
+GitHub: https://github.com/harshkumar14nov
 
