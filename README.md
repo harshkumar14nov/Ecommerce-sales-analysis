@@ -67,3 +67,11 @@ Big thanks to:
 ---
 
 *This project is part of my data analytics portfolio. Feedback and collaboration are welcome!*
+
+
+## 🙌 Author
+Harsh Kumar  
+Data Analyst  
+LinkedIn: https://www.linkedin.com/in/harsh-kumar  
+GitHub: https://github.com/harsh-kumar
+
