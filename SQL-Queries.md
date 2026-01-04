@@ -143,6 +143,16 @@ Filters after GROUP BY to include only high-revenue customers.
 
 ---
 
+-- Repeat Customers
+SELECT 
+    customer_id,
+    COUNT(order_id) AS total_orders
+FROM online_sales_dataset
+GROUP BY customer_id
+HAVING total_orders > 1;
+
+
+
 ### Return Rate Analysis
 ```
 WITH Profitstat AS (
