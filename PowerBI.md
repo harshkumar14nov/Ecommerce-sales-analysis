@@ -96,7 +96,7 @@ All categories are balanced (around ~20% each), but Furniture slightly leads at 
 ## Purpose:
 To identify customers who contribute the most to overall revenue.
 
-## 🎯 Insight:
+## 🎯 Insights:
 Top 10 spending customers each placed only 2–4 orders, showing a lack of repeat purchases. A loyalty or retention program may help increase customer lifetime value.
 
 ---
